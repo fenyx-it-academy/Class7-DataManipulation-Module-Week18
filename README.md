@@ -1,4 +1,4 @@
 # Class7-DataManipulation-Module-Week18
 
-Please complete the exercises in assignment1.ipynb notebook.
+Please complete the exercises in assignment2.ipynb notebook.
 
